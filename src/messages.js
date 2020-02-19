@@ -7,6 +7,7 @@ export default {
     'load.gif3': 'Load Gifs',
     'load.gif4': 'Load Gifs',
     'load.gif5': 'Load Gifs',
+    'load.gif6': 'Load Gifs',
     'load.gif7': 'Load Gifs'
   },
   'pt-BR': {
