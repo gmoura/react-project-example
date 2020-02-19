@@ -6,7 +6,8 @@ export default {
     'load.gifs2': 'Load Gifs',
     'load.gif3': 'Load Gifs',
     'load.gif4': 'Load Gifs',
-    'load.gif5': 'Load Gifs'
+    'load.gif5': 'Load Gifs',
+    'load.gif6': 'Load Gifs'
   },
   'pt-BR': {
     'hello.world': 'Oi mundo',
