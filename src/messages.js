@@ -3,7 +3,8 @@ export default {
     'hello.world': 'Hello world',
     'load.gifs': 'Load Gifs',
     'load.gifs1': 'Load Gifs',
-    'load.gifs2': 'Load Gifs'
+    'load.gifs2': 'Load Gifs',
+    'load.gif3': 'Load Gifs'
   },
   'pt-BR': {
     'hello.world': 'Oi mundo',
